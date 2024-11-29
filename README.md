@@ -1,9 +1,6 @@
-## Hi there 👋
+## Welcome to my Github
 
-<!--
-**zly854/zly854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Luyuan Zhang, a master student at Tsinghua University major in AI. My research interest is Generative Models and Representation Learning in computer vision.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
