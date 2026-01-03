@@ -1,5 +1,5 @@
 ## Welcome to Luyuan Zhang's Github
-I am Luyuan Zhang, a Master's student in the Artificial Intelligence program at **Tsinghua University**, Shenzhen International Graduate School and i'm a group member of Future Media Lab. My research interest lies in Auto-Regresiive Based Image Generation and its variants, Multimodality LLMs and 3D visions.
+I am Luyuan Zhang, a Master's student in the Artificial Intelligence program at **Tsinghua University**, Shenzhen International Graduate School and i'm a group member of Future Media Lab. My research interest lies in Visual Tokenization Methods and its variants, Multimodality LLMs and 3D visions.
 
 - 🔭 I’m currently working on Vector Quantization Methods to Unify embedding space with generation and representation.
 - 🌱 I am seeking long-term collaborations and internship opportunities. Feel free to contact me if you have same research interests.
